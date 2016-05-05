@@ -27,19 +27,22 @@
     - `https://github.com/neucloud-ncae/ncae-example-php`
   * URL 获取方式示例：
     - `http://neucloud.oss-cn-beijing.aliyuncs.com/softwares/ncae/ncae-example-php-master.zip`
-- 用户选择：（获取方式)（GitHub / GitLab / URL）
+- 用户选择：（获取方式）（GitHub / GitLab / URL）
 - 用户输入：（源码地址）
+![](https://raw.githubusercontent.com/neucloud-ncae/ncae-doc/master/images/repo.png)
 
 ---
 - 提示信息：
   * 请选择你指定的代码所使用的语言环境（框架），我们将根据您的选择，为您自动生成一些基础配置指令。
 - 用户选择：（语言环境）（PHP / Python / Java）
 - 用户输入：（配置指令）（根据用户选择的语言环境，默认填入基础配置指令）
+![](https://raw.githubusercontent.com/neucloud-ncae/ncae-doc/master/images/test.png)
 
 ---
 - 提示信息：
   * 请输入您需要传入应用节点的环境变量，这些环境变量将可以在您的应用节点中被使用（包括扩展结点）
 - 用户输入：（环境变量）（输入模式：KEY = VALUE）
+![](https://raw.githubusercontent.com/neucloud-ncae/ncae-doc/master/images/env.png)
 
 ---
 - 部署执行
