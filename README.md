@@ -11,7 +11,7 @@
   * 请选择应用扩展模式。
   * 单节点模式：平台只分配一台虚拟机节点用于运行您的应用。
   * 自伸缩模式：平台将自动根据应用服务器的负载和资源使用情况，动态为您创建新的应用节点。
-- 用户选择：（扩展模式）（单节点/自伸缩）
+- 用户选择：（扩展模式）（单节点 / 自伸缩）
 
 ---
 - 提示信息：
@@ -22,12 +22,12 @@
 ---
 - 提示信息：
   * 本平台支持通过 GitHub、GitLab、URL 三种方式获取源码。
-  * GitHub / GitLab 获取方式：
+  * GitHub 获取方式示例：
     - `git@github.com:neucloud-ncae/ncae-example-php.git`
     - `https://github.com/neucloud-ncae/ncae-example-php`
   * URL 获取方式示例：
     - `http://neucloud.oss-cn-beijing.aliyuncs.com/softwares/ncae/ncae-example-php-master.zip`
-- 用户选择：（获取方式)
+- 用户选择：（获取方式)（GitHub / GitLab / URL）
 - 用户输入：（源码地址）
 
 ---
